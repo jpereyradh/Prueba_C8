@@ -1,1 +1,0 @@
-Hola. Esta es una modificacion sobre el archivo.txt que esta dentro del directorio_1
